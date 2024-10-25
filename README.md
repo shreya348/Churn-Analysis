@@ -1,5 +1,7 @@
 **Customer Churn Analysis**
 
+
+
 **Project Overview**
 
 This project presents a comprehensive Customer Churn Analysis conducted on a dataset of over 6,000 customers. The primary objective of this analysis was to identify key factors driving customer churn and develop actionable strategies to improve customer retention. The analysis was performed using MS SQL Server for data cleaning, ETL processes, and data transformation, followed by creating interactive dashboards in Power BI for insightful visualizations.
@@ -19,9 +21,14 @@ This project presents a comprehensive Customer Churn Analysis conducted on a dat
 **Technologies Used**
 
 **MS SQL Server:** Employed for data extraction, transformation, and cleaning to ensure data quality and accuracy.
+
 **Power BI:** Utilized for creating dynamic and interactive dashboards to visualize customer churn insights and trends.
+
 **Data Analysis:** Conducted exploratory and statistical analysis to identify trends, correlations, and risk factors associated with churn.
+
 **Churn Reduction Strategies:** Developed and tested recommendations to reduce churn, resulting in measurable improvements in customer retention.
+
+
 
 
 
